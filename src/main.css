@@ -5,7 +5,27 @@ html {
 body {
     max-width: 100%;
     background-color: rgb(241, 252, 252);
-    margin: 0px;
-    padding: 0px;
+    margin-left: 220px;
+    margin-right: 220px;
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center; */
+    /* 縮んだら折り返す */
+    /* flex-wrap: wrap;
+    height: 100vh; */
+}
+
+header {
+    width: 100%;
+    margin-top: 60px;
+}
+
+.header {
+    height: 33px;
+}
+
+.header img {
+    width: 160px;
+    height: auto;
 }
 
