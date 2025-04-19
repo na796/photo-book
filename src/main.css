@@ -9,3 +9,15 @@ body {
     padding: 0px;
 }
 
+.header {
+    width: 100%;
+    height: 100px;   
+    margin-top: 60px;
+}
+
+.header img {
+    position: absolute;
+    left: 100px;
+    width: 170px;
+    height: auto;
+}
